@@ -1,0 +1,282 @@
+炮兵
+通用
+7	Houfnice	1 pip 1					1 pip 1	2
+7	Large Cast Bronze Mortar					2 pips 2		2
+10	Culverin	2 pips 2	1 pip 1		1 pip 1			4
+10	Pedrero	1 pip 1			2 pips 2	1 pip 1		4
+13	Large Cast Iron Cannon	2 pips 2	1 pip 1		1 pip 1	2 pips 2		6
+13	Small Cast Iron Cannon	1 pip 1	1 pip 1		2 pips 2	1 pip 1	1 pip 1	6
+16	Chambered Demi Cannon	2 pips 2	2 pips 2		1 pip 1	2 pips 2	1 pip 1	8
+16	Demi-Culverin	1 pip 1	2 pips 2		2 pips 2	2 pips 2	1 pip 1	8
+18	Leather Cannon	3 pips 3	2 pips 2	1 pip 1	1 pip 1	2 pips 2	1 pip 1	10
+18	Chambered Cannon	3 pips 3	2 pips 2	1 pip 1	2 pips 2	1 pip 1	1 pip 1	10
+20	Swivel Cannon	3 pips 3	2 pips 2	1 pip 1	2 pips 2	3 pips 3	1 pip 1	12
+20	Howitzer	3 pips 3	2 pips 2	1 pip 1	2 pips 2	2 pips 2	2 pips 2	12
+22	Coehorn Mortar	2 pips 2	4 pips 4	1 pip 1	2 pips 2	2 pips 2	3 pips 3	14
+22	Horse Artillery	3 pips 3	3 pips 3	1 pip 1	1 pip 1	4 pips 4	2 pips 2	14
+25	Royal Mortar	4 pips 4	3 pips 3	1 pip 1	1 pip 1	5 pips 5	2 pips 2	16
+25	Licorne	3 pips 3	4 pips 4	1 pip 1	2 pips 2	3 pips 3	3 pips 3	16
+29	Flying Battery	5 pips 5	4 pips 4	2 pips 2	2 pips 2	4 pips 4	3 pips 3	20
+29	Grand Battery	4 pips 4	4 pips 4	2 pips 2	4 pips 4	3 pips 3	3 pips 3	20
+
+步兵
+西欧
+1	Halberd Infantry			1 pip 1		1 pip 1		2
+1	Latin Medieval Infantry					1 pip 1	1 pip 1	2
+5	Galloglaigh Infantry			1 pip 1		2 pips 2		3
+5	Longbow			1 pip 1		1 pip 1	1 pip 1	3
+5	Men at Arms				1 pip 1	1 pip 1	1 pip 1	3
+9	Condotta Infantry			2 pips 2	1 pip 1	1 pip 1	1 pip 1	5
+9	Landsknecht Infantry			1 pip 1	1 pip 1	1 pip 1	2 pips 2	5
+9	Reformed Galloglaigh Infantry			2 pips 2		2 pips 2	1 pip 1	5
+12	Free Shooter Infantry	1 pip 1	2 pips 2	2 pips 2	1 pip 1	3 pips 3	1 pip 1	10
+12	Tercio Infantry	1 pip 1	2 pips 2	1 pip 1	2 pips 2	2 pips 2	2 pips 2	10
+15	Charge Infantry	1 pip 1	2 pips 2	3 pips 3	1 pip 1	3 pips 3	2 pips 2	12
+15	Maurician Infantry	2 pips 2	2 pips 2	2 pips 2	1 pip 1	3 pips 3	2 pips 2	12
+19	Gustavian Infantry	3 pips 3	2 pips 2	3 pips 3	2 pips 2	3 pips 3	2 pips 2	15
+19	Highlanders Infantry	2 pips 2	2 pips 2	3 pips 3	2 pips 2	4 pips 4	2 pips 2	15
+19	Reformed Tercio	2 pips 2	2 pips 2	2 pips 2	3 pips 3	3 pips 3	3 pips 3	15
+23	Caroline Infantry	3 pips 3	2 pips 2	3 pips 3	2 pips 2	3 pips 3	3 pips 3	16
+23	Grenzer Infantry	2 pips 2	3 pips 3	2 pips 2	3 pips 3	3 pips 3	3 pips 3	16
+23	Line Infantry	3 pips 3	3 pips 3	2 pips 2	2 pips 2	3 pips 3	3 pips 3	16
+26	Blue Coat Infantry	3 pips 3	3 pips 3	3 pips 3	3 pips 3	4 pips 4	4 pips 4	20
+26	Frederickian Infantry	4 pips 4	3 pips 3	3 pips 3	3 pips 3	4 pips 4	3 pips 3	20
+26	Redcoat Infantry	3 pips 3	4 pips 4	3 pips 3	3 pips 3	4 pips 4	3 pips 3	20
+26	White Coat Infantry	4 pips 4	3 pips 3	3 pips 3	3 pips 3	3 pips 3	4 pips 4	20
+28	Impulse Infantry	4 pips 4	3 pips 3	3 pips 3	3 pips 3	4 pips 4	4 pips 4	21
+28	Square Infantry	3 pips 3	4 pips 4	3 pips 3	3 pips 3	4 pips 4	4 pips 4	21
+30	Drill Infantry	4 pips 4	4 pips 4	3 pips 3	3 pips 3	4 pips 4	4 pips 4	22
+30	Jäger Infantry	4 pips 4	4 pips 4	4 pips 4	3 pips 3	3 pips 3	4 pips 4	22
+30	Mixed Order Infantry	4 pips 4	3 pips 3	4 pips 4	3 pips 3	4 pips 4	4 pips 4	22
+30	Napoleonic Square	4 pips 4	4 pips 4	4 pips 4	3 pips 3	4 pips 4	3 pips 3	22
+
+土著
+1	Aboriginal Spearman			2 pips 2		1 pip 1		3
+1	Boomerang Hunter				1 pip 1		2 pips 2	3
+5	Aboriginal Ambusher			1 pip 1	2 pips 2	1 pip 1	1 pip 1	5
+5	Reformed Boomerang Warrior			1 pip 1	1 pip 1	1 pip 1	2 pips 2	5
+5	Ritual Warrior			2 pips 2	2 pips 2	1 pip 1		5
+10	Outback Warriors			1 pip 1	2 pips 2	2 pips 2	3 pips 3	8
+14	Ambush Arquebusier	1 pip 1	2 pips 2	1 pip 1	3 pips 3	2 pips 2	3 pips 3	12
+14	Offensive Arquebusier	2 pips 2	1 pip 1	3 pips 3	2 pips 2	2 pips 2	2 pips 2	12
+19	Frontier Riflemen	3 pips 3	2 pips 2	2 pips 2	2 pips 2	3 pips 3	2 pips 2	14
+26	Black War Infantry	4 pips 4	3 pips 3	4 pips 4	3 pips 3	3 pips 3	3 pips 3	20
+
+非洲
+1	African Clubmen			1 pip 1		1 pip 1	1 pip 1	3
+1	African Spearmen				1 pip 1	1 pip 1	1 pip 1	3
+5	Central African Warrior			1 pip 1	1 pip 1	2 pips 2	2 pips 2	6
+5	North African Warrior			2 pips 2	2 pips 2	1 pip 1	1 pip 1	6
+5	South African Warrior			2 pips 2	1 pip 1	2 pips 2	1 pip 1	6
+5	West African Warrior			1 pip 1	2 pips 2	1 pip 1	2 pips 2	6
+12	African Forest Warriors	1 pip 1	1 pip 1	2 pips 2	2 pips 2	2 pips 2	2 pips 2	10
+12	African Hill Warriors	2 pips 2	1 pip 1	1 pip 1	2 pips 2	2 pips 2	2 pips 2	10
+12	African Mountain Warriors	1 pip 1	2 pips 2	2 pips 2	2 pips 2	1 pip 1	2 pips 2	10
+12	African Plains Warriors	2 pips 2	1 pip 1	2 pips 2	2 pips 2	2 pips 2	1 pip 1	10
+15	Central African Musketeers	3 pips 3	2 pips 2	2 pips 2	2 pips 2	2 pips 2	2 pips 2	13
+15	East African Musketeers	2 pips 2	2 pips 2	2 pips 2	2 pips 2	2 pips 2	3 pips 3	13
+15	North African Musketeers	2 pips 2	3 pips 3	2 pips 2	3 pips 3	1 pip 1	2 pips 2	13
+15	South African Musketeers	3 pips 3	2 pips 2	3 pips 3	2 pips 2	2 pips 2	1 pip 1	13
+23	Central African Guerrillas	3 pips 3	2 pips 2	2 pips 2	3 pips 3	3 pips 3	2 pips 2	15
+23	East African Guerrillas	3 pips 3	3 pips 3	2 pips 2	2 pips 2	2 pips 2	3 pips 3	15
+23	North African Guerrillas	2 pips 2	3 pips 3	2 pips 2	3 pips 3	2 pips 2	3 pips 3	15
+26	Westernized Central African Infantry	3 pips 3	3 pips 3	3 pips 3	3 pips 3	4 pips 4	3 pips 3	19
+26	Westernized East African Infantry	4 pips 4	3 pips 3	3 pips 3	2 pips 2	4 pips 4	3 pips 3	19
+26	Westernized North African Infantry	3 pips 3	4 pips 4	2 pips 2	4 pips 4	3 pips 3	3 pips 3	19
+26	Westernized South African Infantry	4 pips 4	3 pips 3	3 pips 3	3 pips 3	3 pips 3	3 pips 3	19
+30	African Western Franchise Infantry	4 pips 4	3 pips 3	3 pips 3	3 pips 3	3 pips 3	4 pips 4	20
+
+安纳托利亚
+1	Yaya Infantry			1 pip 1		1 pip 1	1 pip 1	3
+5	Azab Infantry			1 pip 1	1 pip 1	1 pip 1	1 pip 1	4
+9	Janissary Infantry	1 pip 1		1 pip 1	1 pip 1	1 pip 1	2 pips 2	6
+12	Sekban Infantry	2 pips 2	2 pips 2	2 pips 2	1 pip 1	2 pips 2	3 pips 3	12
+19	Reformed Janissary Infantry	3 pips 3	2 pips 2	2 pips 2	2 pips 2	3 pips 3	2 pips 2	14
+23	Nizami Cedid Infantry	2 pips 2	3 pips 3	2 pips 2	2 pips 2	3 pips 3	3 pips 3	15
+26	Eastern Carabinier	4 pips 4	3 pips 3	3 pips 3	3 pips 3	3 pips 3	3 pips 3	19
+30	Eastern New Model Infantry	3 pips 3	3 pips 3	3 pips 3	3 pips 3	4 pips 4	4 pips 4	20
+
+CN
+1	Asian Longbow			1 pip 1			1 pip 1	2
+1	Asian Longspear Infantry				1 pip 1		1 pip 1	2
+1	East Asian Spearmen				1 pip 1	1 pip 1		2
+5	Defensive Asian Foot Soldier			1 pip 1	1 pip 1	1 pip 1	1 pip 1	4
+5	Offensive Asian Foot Soldier			1 pip 1		2 pips 2	1 pip 1	4
+9	Asian Arquebusier	1 pip 1	1 pip 1	1 pip 1	1 pip 1	1 pip 1	1 pip 1	6
+12	Banner Infantry	1 pip 1	2 pips 2	2 pips 2	1 pip 1	2 pips 2	2 pips 2	10
+15	Asian Mass Infantry	3 pips 3	2 pips 2	2 pips 2	2 pips 2	2 pips 2	2 pips 2	13
+19	Asian Musketeer	3 pips 3	3 pips 3	2 pips 2	2 pips 2	3 pips 3	2 pips 2	15
+26	Reformed Asian Musketeer	4 pips 4	4 pips 4	3 pips 3	3 pips 3	3 pips 3	3 pips 3	20
+
+东欧
+1	Bardiche Infantry					1 pip 1	1 pip 1	2
+1	Eastern Medieval Infantry			1 pip 1		1 pip 1		2
+5	Eastern Militia			1 pip 1	1 pip 1	1 pip 1	1 pip 1	4
+9	Pike Infantry			1 pip 1	2 pips 2	1 pip 1	2 pips 2	6
+12	Defensive Eastern Musketeers	2 pips 2	2 pips 2	1 pip 1	2 pips 2	2 pips 2	2 pips 2	11
+12	Offensive Eastern Musketeers	2 pips 2	1 pip 1	2 pips 2	1 pip 1	3 pips 3	2 pips 2	11
+15	Eastern Tercio	2 pips 2	2 pips 2	1 pip 1	2 pips 2	2 pips 2	3 pips 3	12
+15	Soldaty Infantry	3 pips 3	1 pip 1	2 pips 2	1 pip 1	3 pips 3	2 pips 2	12
+19	Saxon Infantry	3 pips 3	2 pips 2	3 pips 3	2 pips 2	2 pips 2	2 pips 2	14
+23	Petrine Infantry	2 pips 2	3 pips 3	2 pips 2	3 pips 3	3 pips 3	3 pips 3	16
+26	Green Coat Infantry	3 pips 3	3 pips 3	3 pips 3	3 pips 3	4 pips 4	4 pips 4	20
+30	Mass Infantry	4 pips 4	3 pips 3	4 pips 4	3 pips 3	4 pips 4	3 pips 3	21
+
+高美
+1	Xantican Warrior	1 pip 1	1 pip 1		1 pip 1	1 pip 1		4
+5	Reformed Xantican Warrior	2 pips 2	1 pip 1	1 pip 1	1 pip 1	2 pips 2		7
+9	Xiuhtecuhtli Soldier	3 pips 3	2 pips 2	1 pip 1	1 pip 1	3 pips 3	2 pips 2	12
+12	Xiuhtecuhtlian Infantry	3 pips 3	3 pips 3	2 pips 2	1 pip 1	4 pips 4	3 pips 3	16
+18	Xoloti	3 pips 3	3 pips 3	2 pips 2	2 pips 2	4 pips 4	3 pips 3	17
+23	Foreign Influenced Infantry	4 pips 4	3 pips 3	2 pips 2	2 pips 2	4 pips 4	3 pips 3	18
+26	Reformed Influenced Infantry	4 pips 4	4 pips 4	3 pips 3	3 pips 3	4 pips 4	3 pips 3	21
+30	Reformed Xoloti	4 pips 4	4 pips 4	4 pips 4	3 pips 3	4 pips 4	3 pips 3	22
+
+印度
+1	Indian Foot Soldier			1 pip 1		1 pip 1	1 pip 1	3
+5	Indian Arquebusier	1 pip 1		1 pip 1	1 pip 1	1 pip 1		4
+9	Poligar Infantry	1 pip 1	1 pip 1	1 pip 1	1 pip 1	1 pip 1	1 pip 1	6
+9	Toofangchis	1 pip 1		1 pip 1	1 pip 1	2 pips 2	1 pip 1	6
+12	Akbarid Musketeers	2 pips 2	2 pips 2	1 pip 1	2 pips 2	2 pips 2	2 pips 2	11
+12	South Indian Infantry	2 pips 2	1 pip 1	2 pips 2	1 pip 1	3 pips 3	2 pips 2	11
+18	Deccani Musket Infantry	3 pips 3	3 pips 3	2 pips 2	2 pips 2	2 pips 2	2 pips 2	14
+18	North Indian Musket Infantry	3 pips 3	2 pips 2	2 pips 2	2 pips 2	3 pips 3	2 pips 2	14
+23	Telingas	4 pips 4	3 pips 3	2 pips 2	2 pips 2	2 pips 2	3 pips 3	16
+26	North Indian Sepoy	3 pips 3	3 pips 3	3 pips 3	3 pips 3	3 pips 3	4 pips 4	19
+30	Indian Drill Infantry	4 pips 4	3 pips 3	3 pips 3	3 pips 3	4 pips 4	3 pips 3	20
+
+绿绿
+1	Muslim Archer			1 pip 1	1 pip 1		1 pip 1	3
+1	Muslim Foot Soldier			1 pip 1		1 pip 1	1 pip 1	3
+5	Muslim Duel Infantry			1 pip 1	1 pip 1	1 pip 1	1 pip 1	4
+9	Shamshir Infantry			2 pips 2	1 pip 1	1 pip 1	2 pips 2	6
+12	Muslim Musketeer	2 pips 2	1 pip 1	1 pip 1	2 pips 2	2 pips 2	3 pips 3	11
+15	Afsharid Reformed Infantry	3 pips 3	2 pips 2	2 pips 2	2 pips 2	2 pips 2	2 pips 2	13
+23	Reformed Muslim Musketeers	1 pip 1	3 pips 3	3 pips 3	2 pips 2	4 pips 4	3 pips 3	16
+26	Muslim Mass Infantry	3 pips 3	4 pips 4	3 pips 3	3 pips 3	3 pips 3	3 pips 3	19
+30	Muslim Rifle Infantry	3 pips 3	3 pips 3	3 pips 3	3 pips 3	4 pips 4	4 pips 4	20
+
+游牧
+1	Eastern Archers			1 pip 1	1 pip 1	1 pip 1	1 pip 1	4
+9	Steppe Raiders			2 pips 2	1 pip 1	1 pip 1	2 pips 2	6
+12	Steppe Footmen	1 pip 1	1 pip 1	2 pips 2	2 pips 2	2 pips 2	2 pips 2	10
+15	Steppe Musketeers	2 pips 2	1 pip 1	3 pips 3	2 pips 2	2 pips 2	2 pips 2	12
+19	Steppe Infantry	2 pips 2	2 pips 2	3 pips 3	2 pips 2	3 pips 3	2 pips 2	14
+26	Steppe Rifles	2 pips 2	3 pips 3	3 pips 3	3 pips 3	4 pips 4	4 pips 4	19
+30	Reformed Steppe Rifles	3 pips 3	3 pips 3	3 pips 3	3 pips 3	4 pips 4	4 pips 4	20
+
+
+骑兵
+西欧
+1	Chevauchée			1 pip 1	1 pip 1	1 pip 1		3
+1	Latin Knights			1 pip 1		1 pip 1	1 pip 1	3
+10	Schwarze Reiter	1 pip 1		2 pips 2	1 pip 1	2 pips 2	2 pips 2	8
+14	Latin Caracole Cavalry	1 pip 1		3 pips 3	2 pips 2	2 pips 2	2 pips 2	10
+18	Gallop Cavalry	1 pip 1	1 pip 1	4 pips 4	3 pips 3	3 pips 3	3 pips 3	15
+23	Arme Blanche Cavalry	1 pip 1	1 pip 1	5 pips 5	3 pips 3	5 pips 5	3 pips 3	18
+23	Latin Dragoons	1 pip 1	1 pip 1	4 pips 4	4 pips 4	4 pips 4	4 pips 4	18
+23	Latin Hussars	1 pip 1	2 pips 2	4 pips 4	3 pips 3	4 pips 4	4 pips 4	18
+26	Carabiniers	2 pips 2	1 pip 1	5 pips 5	4 pips 4	3 pips 3	4 pips 4	19
+26	Reformed Latin Hussars	1 pip 1	2 pips 2	4 pips 4	4 pips 4	4 pips 4	4 pips 4	19
+26	Uhlan Cavalry	1 pip 1	2 pips 2	5 pips 5	4 pips 4	4 pips 4	3 pips 3	19
+28	Latin Chasseur	2 pips 2	1 pip 1	4 pips 4	4 pips 4	5 pips 5	5 pips 5	21
+28	Latin Cuirassiers	1 pip 1	2 pips 2	5 pips 5	4 pips 4	4 pips 4	5 pips 5	21
+28	Latin Lancers		2 pips 2	6 pips 6	4 pips 4	5 pips 5	4 pips 4	21
+
+土著
+6	Aboriginal Horsemen			2 pips 2	1 pip 1	1 pip 1	1 pip 1	5
+10	Aboriginal Cavalry		1 pip 1	3 pips 3	2 pips 2	2 pips 2	2 pips 2	10
+14	Aboriginal Hussar	1 pip 1	1 pip 1	3 pips 3	2 pips 2	3 pips 3	2 pips 2	12
+18	Aboriginal Swarm Cavalry	1 pip 1	2 pips 2	3 pips 3	3 pips 3	3 pips 3	2 pips 2	14
+23	Aboriginal Dragoon	2 pips 2	2 pips 2	3 pips 3	3 pips 3	4 pips 4	4 pips 4	18
+
+非洲
+1	Abyssinian Light Cavalry			1 pip 1	1 pip 1	2 pips 2		4
+1	Mandekalu Cavalry			1 pip 1	1 pip 1	1 pip 1	1 pip 1	4
+6	Somali Light Cavalry			2 pips 2	1 pip 1	1 pip 1	2 pips 2	6
+6	Tuareg Cavalry			2 pips 2	1 pip 1	2 pips 2	1 pip 1	6
+10	Abyssinian Barded Cavalry			3 pips 3	2 pips 2	3 pips 3	2 pips 2	10
+10	Mossi Horsemen			2 pips 2	2 pips 2	3 pips 3	3 pips 3	10
+14	African Hussar	1 pip 1		3 pips 3	2 pips 2	3 pips 3	3 pips 3	12
+17	African Swarm Cavalry		1 pip 1	4 pips 4	3 pips 3	3 pips 3	2 pips 2	13
+23	African Dragoon	1 pip 1	1 pip 1	3 pips 3	3 pips 3	4 pips 4	4 pips 4	16
+28	African Cuirassier	1 pip 1	1 pip 1	4 pips 4	4 pips 4	4 pips 4	4 pips 4	18
+
+安纳托利亚
+1	Musellem Cavalry			2 pips 2	1 pip 1	1 pip 1	1 pip 1	5
+6	Timariot Cavalry			2 pips 2	1 pip 1	2 pips 2	1 pip 1	6
+10	Spahi Cavalry			3 pips 3	2 pips 2	3 pips 3	2 pips 2	10
+18	Reformed Spahi Cavalry	1 pip 1	1 pip 1	3 pips 3	3 pips 3	3 pips 3	3 pips 3	14
+23	Toprakli Hit and Run Cavalry	2 pips 2		4 pips 4	3 pips 3	4 pips 4	3 pips 3	16
+26	Eastern Skirmisher	1 pip 1	2 pips 2	4 pips 4	3 pips 3	4 pips 4	3 pips 3	17
+26	Eastern Uhlan	2 pips 2	1 pip 1	3 pips 3	4 pips 4	4 pips 4	3 pips 3	17
+28	Reformed Lancer	1 pip 1	1 pip 1	5 pips 5	3 pips 3	5 pips 5	3 pips 3	18
+28	Toprakli Dragoons	2 pips 2	2 pips 2	3 pips 3	3 pips 3	4 pips 4	4 pips 4	18
+
+CN
+1	Archer Cavalry				1 pip 1	1 pip 1	1 pip 1	3
+1	East Asian Archer Cavalry			1 pip 1		1 pip 1	1 pip 1	3
+6	Asian Steppe Cavalry			2 pips 2	2 pips 2	1 pip 1	1 pip 1	6
+6	Samurai Cavalry			2 pips 2	1 pip 1	2 pips 2	1 pip 1	6
+10	Reformed Asian Steppe Cavalry	1 pip 1		2 pips 2	2 pips 2	2 pips 2	2 pips 2	9
+14	Asian Charge Cavalry		1 pip 1	3 pips 3	2 pips 2	3 pips 3	3 pips 3	12
+17	Banner Cavalry	1 pip 1	1 pip 1	3 pips 3	3 pips 3	3 pips 3	3 pips 3	14
+23	Asian Dragoons	1 pip 1	2 pips 2	3 pips 3	3 pips 3	4 pips 4	3 pips 3	16
+28	Green Standard Cavalry	2 pips 2	1 pip 1	4 pips 4	4 pips 4	4 pips 4	4 pips 4	19
+28	Reformed Asian Cavalry	1 pip 1	2 pips 2	5 pips 5	4 pips 4	3 pips 3	4 pips 4	19
+
+东欧
+1	Druzhina Cavalry				1 pip 1	1 pip 1	1 pip 1	3
+1	Eastern Knights			1 pip 1		1 pip 1	1 pip 1	3
+6	Stratioti Cavalry			2 pips 2	1 pip 1	1 pip 1	1 pip 1	5
+10	Eastern Hussar			2 pips 2	2 pips 2	3 pips 3	2 pips 2	9
+14	Eastern Caracole	2 pips 2		2 pips 2	2 pips 2	3 pips 3	3 pips 3	12
+14	Reformed Eastern Hussars	1 pip 1	1 pip 1	3 pips 3	3 pips 3	2 pips 2	2 pips 2	12
+14	Southern Cossacks		1 pip 1	4 pips 4	2 pips 2	2 pips 2	3 pips 3	12
+22	Cossack Cavalry	1 pip 1	1 pip 1	4 pips 4	3 pips 3	4 pips 4	4 pips 4	17
+22	Winged Hussars		1 pip 1	5 pips 5	4 pips 4	4 pips 4	3 pips 3	17
+26	Lancers		1 pip 1	5 pips 5	4 pips 4	4 pips 4	4 pips 4	18
+26	Reformed Cossack Cavalry	1 pip 1	1 pip 1	4 pips 4	4 pips 4	4 pips 4	4 pips 4	18
+28	Advanced Cossack Cavalry	2 pips 2	1 pip 1	4 pips 4	4 pips 4	5 pips 5	4 pips 4	20
+28	Eastern Cuirassiers	1 pip 1	2 pips 2	5 pips 5	4 pips 4	4 pips 4	4 pips 4	20
+
+高美
+6	American Horsemen	1 pip 1		2 pips 2	1 pip 1	1 pip 1	1 pip 1	6
+10	Xiuhtecuhtli Cavalry	2 pips 2	1 pip 1	3 pips 3	2 pips 2	2 pips 2	2 pips 2	12
+14	American Hussars	2 pips 2	2 pips 2	3 pips 3	2 pips 2	3 pips 3	2 pips 2	14
+19	American Swarm Cavalry	3 pips 3	2 pips 2	3 pips 3	3 pips 3	3 pips 3	2 pips 2	16
+23	American Dragoon	4 pips 4	2 pips 2	3 pips 3	3 pips 3	4 pips 4	4 pips 4	20
+
+印度
+1	Elephant Archers			1 pip 1		1 pip 1	1 pip 1	3
+1	Indian Cavalry				1 pip 1	1 pip 1	1 pip 1	3
+6	Indian Cavalry Archers			2 pips 2	2 pips 2	1 pip 1	1 pip 1	6
+10	Mansabdar Cavalry	1 pip 1		3 pips 3	2 pips 2	2 pips 2	2 pips 2	10
+14	Dai-Phat Cavalry	2 pips 2		2 pips 2	3 pips 3	3 pips 3	2 pips 2	12
+17	Maratha Raiders		2 pips 2	4 pips 4	3 pips 3	3 pips 3	2 pips 2	14
+23	Deccani Light Cavalry	1 pip 1	1 pip 1	4 pips 4	3 pips 3	4 pips 4	3 pips 3	16
+28	Mysorean Light Cavalry	2 pips 2	1 pip 1	4 pips 4	4 pips 4	3 pips 3	4 pips 4	18
+28	Sowars	1 pip 1	2 pips 2	4 pips 4	4 pips 4	4 pips 4	3 pips 3	18
+
+绿绿
+1	Charge Cavalry			2 pips 2		1 pip 1	1 pip 1	4
+1	Muslim Cavalry			1 pip 1		2 pips 2	1 pip 1	4
+1	Muslim Cavalry Archers			1 pip 1	1 pip 1	1 pip 1	1 pip 1	4
+6	Shaybanid Cavalry			2 pips 2	1 pip 1	1 pip 1	2 pips 2	6
+10	Qizilbash Cavalry			2 pips 2	2 pips 2	3 pips 3	2 pips 2	9
+14	Muslim Musketeer Cavalry	1 pip 1		2 pips 2	2 pips 2	3 pips 3	2 pips 2	10
+18	Afsharid Reformed Cavalry		1 pip 1	4 pips 4	3 pips 3	3 pips 3	3 pips 3	14
+18	Musket Charge Cavalry	1 pip 1	1 pip 1	4 pips 4	3 pips 3	3 pips 3	2 pips 2	14
+23	Ali Bey Reformed Cavalry	2 pips 2	1 pip 1	4 pips 4	3 pips 3	4 pips 4	3 pips 3	17
+23	Muslim Dragoon	1 pip 1	2 pips 2	3 pips 3	4 pips 4	3 pips 3	4 pips 4	17
+28	Durrani Cavalry	2 pips 2	1 pip 1	5 pips 5	3 pips 3	4 pips 4	4 pips 4	19
+28	Durrani Swivel Cavalry	1 pip 1	2 pips 2	4 pips 4	5 pips 5	4 pips 4	3 pips 3	19
+
+游牧
+1	Eastern Steppe Cavalry			1 pip 1	1 pip 1	2 pips 2	2 pips 2	6
+1	Eastern Swarm Cavalry			2 pips 2	1 pip 1	2 pips 2	1 pip 1	6
+10	Steppe Riders			3 pips 3	2 pips 2	3 pips 3	2 pips 2	10
+14	Steppe Lancers			3 pips 3	3 pips 3	3 pips 3	3 pips 3	12
+18	Mounted Steppe Raiders		1 pip 1	3 pips 3	3 pips 3	3 pips 3	3 pips 3	13
+23	Steppe Cavalry	1 pip 1	1 pip 1	4 pips 4	3 pips 3	3 pips 3	3 pips 3	15
+28	Steppe Uhlans	1 pip 1	1 pip 1	5 pips 5	4 pips 4	4 pips 4	3 pips 3	18
